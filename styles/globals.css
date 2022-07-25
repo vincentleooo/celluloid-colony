@@ -12,4 +12,7 @@
   a {
 	@apply text-yellow-100
   }
+  a:hover {
+	@apply text-yellow-500
+  }
 }
