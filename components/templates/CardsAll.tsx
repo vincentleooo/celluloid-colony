@@ -13,9 +13,18 @@ const CardsAll = () => {
         type="text"
         placeholder="Keyword"
         onChange={(e) => setSearchTerm(e.target.value)}
-        className="mb-8 ml-1 rounded px-2 text-yellow-900"
+        className="mb-8 ml-1 rounded-md px-2 py-0.5 text-yellow-900"
       />
       </div>
+      {/* <div className="grid gap-6 grid-cols-6">
+        <div>All Chapters</div>
+        <div>Chapter 1</div>
+        <div>Chapter 1</div>
+        <div>Chapter 1</div>
+        <div>Chapter 1</div>
+        <div>Chapter 1</div>
+        <div>Chapter 1</div>
+      </div> */}
       <Masonry breakpointCols={3} className="gap-6 hidden sm:flex">
         {dataJson
           .filter((val) => {

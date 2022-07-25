@@ -4,8 +4,7 @@ module.exports = {
   content: ["./pages/**/*.{ts,tsx}", "./components/**/*.{ts,tsx}"],
   theme: {
     backgroundImage: {
-      'film': "url('/images/film.jpg')",
-      'dust': "url('/images/dust.jpg')",
+      'map': "url('/images/map.png')"
     },
     extend: {},
     colors: {

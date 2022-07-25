@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 
 interface CardsProps {
@@ -11,10 +10,11 @@ interface CardsProps {
 }
 
 const Cards = (props: CardsProps) => {
+  
   return (
     <Link href={props.link}>
       <a href="" className="hover:text-yellow-100">
-        <div className="bg-opacity-20 backdrop-blur-2xl rounded drop-shadow-2xl bg-gray-300 text-left hover:scale-105 transition-all">
+        <div className="bg-opacity-20 backdrop-blur-sm rounded-lg shadow-lg bg-gray-300 text-left hover:scale-105 transition-all">
           {props.attachment ? (
             <img
               src={props.attachment}

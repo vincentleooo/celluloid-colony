@@ -7,7 +7,7 @@
     @apply text-yellow-100;
   }
   html, body {
-	@apply bg-dust bg-cover
+	@apply bg-map bg-fixed bg-cover bg-top
   }
   a {
 	@apply text-yellow-100

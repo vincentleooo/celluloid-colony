@@ -5,9 +5,9 @@ import Header from "../components/templates/Header";
 import Footer from "../components/templates/Footer";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <div className="flex flex-col min-h-screen justify-between text-yellow-100 backdrop-blur-sm">
+    <div className="flex flex-col min-h-screen justify-between text-yellow-100 backdrop-blur-sm bg-gray-900 bg-opacity-40">
       <div className="sticky top-0 z-50">
-        <div className="bg-opacity-20 backdrop-blur-lg drop-shadow-2xl">
+        <div className="bg-opacity-20 backdrop-blur-md shadow-lg">
           <div className="w-11/12 lg:max-w-screen-lg mx-auto">
             <Header></Header>
           </div>
