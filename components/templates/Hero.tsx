@@ -1,15 +1,15 @@
 import Image from "next/image";
-import Button from "../button/Button";
 
 const Hero = () => {
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 sm:h-[35rem] items-center max-w-screen-md mx-auto my-12 z-0 text-center sm:text-left">
       <div className="relative h-96 sm:h-full">
         <Image
-          src="/images/book_cover.jpg"
+          src="/images/book_cover.webp"
           alt=""
           layout="fill"
           objectFit="contain"
+          priority={true}
         />
       </div>
       <div>

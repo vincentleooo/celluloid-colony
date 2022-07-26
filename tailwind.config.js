@@ -4,7 +4,7 @@ module.exports = {
   content: ["./pages/**/*.{ts,tsx}", "./components/**/*.{ts,tsx}"],
   theme: {
     backgroundImage: {
-      'map': "url('/images/map.png')"
+      'map': "url('/images/map.webp')"
     },
     extend: {},
     colors: {

@@ -7,12 +7,12 @@
     @apply text-yellow-100;
   }
   html, body {
-	@apply bg-map bg-fixed bg-cover bg-top
+	@apply bg-map bg-fixed bg-cover bg-top;
   }
   a {
-	@apply text-yellow-100
+	@apply text-yellow-100;
   }
   a:hover {
-	@apply text-yellow-500
+	@apply text-yellow-500;
   }
 }
