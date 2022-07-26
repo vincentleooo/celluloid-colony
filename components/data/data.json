@@ -6,7 +6,7 @@
     "url": "https://www.youtube.com/embed/RToqnIIR2Sk",
     "type": "Film",
     "Attachments": "",
-    "image": "images/ch1/nanook.jpg"
+    "image": "images/ch1/nanook.webp"
   },
   {
     "chapter": 1,
@@ -14,7 +14,7 @@
     "path": "in-the-land-of-the-headhunters",
     "url": "https://www.youtube.com/embed/QB93E0Ct3W8",
     "type": "Film",
-    "image": "images/ch1/headhunters.jpg"
+    "image": "images/ch1/headhunters.webp"
   },
   {
     "chapter": 1,
@@ -30,7 +30,7 @@
     "path": "battle-of-algiers",
     "url": "https://www.criterion.com/current/posts/4214-the-battle-of-algiers-turns-fifty",
     "type": "Article",
-    "image": "images/ch1/algiers.jpg"
+    "image": "images/ch1/algiers.webp"
   },
   {
     "chapter": 1,
@@ -77,7 +77,7 @@
     "title": "Cinema Context ",
     "Attachments": "",
     "Status": "",
-    "image":"images/ch2/cinemacontext.png",
+    "image":"images/ch2/cinemacontext.webp",
     "url": "http://www.cinemacontext.nl/"
   },
   {
@@ -86,7 +86,7 @@
     "title": "‘Films Put on Ice for Fans Yet Unborn. Movies Deemed Peculiarly Worthy of Preservation Will Be Treated to Last Forever. Screen Cornerstones. Films for Fans Yet Unborn’, New York Times, 24 Oct. 1926",
     "Attachments": "",
     "Status": "",
-    "image": "images/ch2/filmsputonice.png",
+    "image": "images/ch2/filmsputonice.webp",
     "url": "/documents/filmsputonice.pdf"
   },
   {
@@ -103,7 +103,7 @@
     "title": "Mother Dao opening sequence",
     "Attachments": "",
     "Status": "",
-    "image": "images/ch2/motherdao.png",
+    "image": "images/ch2/motherdao.webp",
     "url": "https://dl.airtable.com/.attachments/fc6f6579970fea2059efc3381f368a29/332e4701/MotherDaotheTurttlelikeopeningscene.m4v"
   },
   {
@@ -112,7 +112,7 @@
     "title": "Stef Lokin, ‘Een gesprek met beeldresearcher Rogier Smeele, Oude beelden en een nieuwe visie’, GBG-Nieuws 33 (1995): 35–8",
     "Attachments": "",
     "Status": "",
-    "image": "images/ch2/steflokin.png",
+    "image": "images/ch2/steflokin.webp",
     "url": "https://dl.airtable.com/.attachments/fd831a80ab2cc0b8b6222bef271d8632/c66b158a/GBD33.pdf"
   },
   {
@@ -177,7 +177,7 @@
     "title": "EBook of The Hidden Force, by Louis Couperus",
     "Attachments": "",
     "Status": "",
-    "image": "images/ch3/hiddenforce.jpeg",
+    "image": "images/ch3/hiddenforce.webp",
     "url": "https://www.gutenberg.org/files/34725/34725-h/34725-h.htm"
   },
   {
@@ -235,7 +235,7 @@
     "Attachments": "",
     "Status": "",
     "url": "/documents/millionsuitdeli.pdf",
-    "image": "images/ch4/millionsuitdeli.png"
+    "image": "images/ch4/millionsuitdeli.webp"
   },
   {
     "chapter": 4,
