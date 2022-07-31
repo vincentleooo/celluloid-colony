@@ -6,8 +6,8 @@
   h1 {
     @apply text-yellow-100;
   }
-  html, body {
-	@apply bg-map bg-cover bg-top -z-10;
+  body {
+	@apply bg-map bg-cover bg-fixed bg-top -z-10;
   }
   a {
 	@apply text-yellow-100;
