@@ -4,7 +4,7 @@ import NavBar from "../navigation/NavBar";
 
 const Header = () => {
   return (
-    <div className="grid grid-cols-2 py-5 z-50">
+    <div className="grid grid-cols-2 py-5 z-10">
       <Logo text="Celluloid Colony"></Logo>
       <NavBar content={NavBarDetails} />
     </div>
