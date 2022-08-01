@@ -32,7 +32,6 @@ export async function getStaticProps(context: paramsData) {
       url: data[0].url,
       chapter: data[0].chapter,
       attachment: data[0].Attachments ? data[0].Attachments : "",
-      video: data[0].video ? data[0].video : ""
     },
   };
 }
@@ -48,9 +47,9 @@ type postProps = {
 export default function Post(props: postProps) {
   // Render post...
   return (
-    <div className="max-w-prose mx-auto my-12">
-      <h1 className="font-bold text-3xl text-center mb-1">{props.title}</h1>
-      <p className="text-center">Chapter {props.chapter.toString()}</p>
+    <div className="max-w-screen-lg mx-auto my-12">
+      <h1 className="font-bold text-3xl text-center mb-1 max-w-prose mx-auto">{props.title}</h1>
+      <p className="text-center max-w-prose mx-auto">Chapter {props.chapter.toString()}</p>
       {props.attachment ? (
         <Image className="mx-auto my-6 w-full h-full" src={props.attachment} alt="" />
       ) : (
@@ -58,14 +57,14 @@ export default function Post(props: postProps) {
       )}
       {props.url ? (
         <>
-          <div className="my-6">
+          <div className="my-6 max-w-prose mx-auto">
             Here is the{" "}
             <Link href={props.url}>
               <a className="text-yellow-500 hover:text-yellow-700">link</a>
             </Link>{" "}
             if the frame below does not show.
           </div>
-          <iframe className="w-full h-96 mx-auto my-3" src={props.url}></iframe>
+          <iframe className="w-full h-[18rem] sm:h-[28rem] md:h-[48rem] mx-auto my-3" src={props.url} allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe>
         </>
       ) : (
         <></>
