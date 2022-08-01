@@ -44,8 +44,6 @@ const CardsAll = () => {
                 title={e.title}
                 image={e.image}
                 attachment={e.Attachments ? e.Attachments : ""}
-                width={e.width}
-                height={e.height}
               ></Cards>
             </div>
           ))}
@@ -69,8 +67,6 @@ const CardsAll = () => {
                 title={e.title}
                 image={e.image}
                 attachment={e.Attachments ? e.Attachments : ""}
-                width={e.width}
-                height={e.height}
               ></Cards>
             </div>
           ))}

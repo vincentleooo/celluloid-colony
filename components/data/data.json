@@ -6,9 +6,7 @@
     "url": "https://www.youtube.com/embed/RToqnIIR2Sk",
     "type": "Film",
     "Attachments": "",
-    "image": "/images/ch1/nanook.webp",
-    "width": 1028,
-    "height": 1532
+    "image": "/images/ch1/nanook.webp"
   },
   {
     "chapter": 1,
@@ -16,9 +14,7 @@
     "path": "in-the-land-of-the-headhunters",
     "url": "https://www.youtube.com/embed/QB93E0Ct3W8",
     "type": "Film",
-    "image": "/images/ch1/headhunters.webp",
-    "width": 2048,
-    "height": 1529
+    "image": "/images/ch1/headhunters.webp"
   },
   {
     "chapter": 1,
@@ -26,9 +22,7 @@
     "path": "kitlv-recording-the-future",
     "url": "https://kitlv.nl/research-projects-recording-the-future/",
     "type": "Film",
-    "image": "/images/ch1/recordingfuture.webp",
-    "width": 851,
-    "height": 530
+    "image": "/images/ch1/recordingfuture.webp"
   },
   {
     "chapter": 1,
@@ -36,52 +30,38 @@
     "path": "battle-of-algiers",
     "url": "https://www.criterion.com/current/posts/4214-the-battle-of-algiers-turns-fifty",
     "type": "Article",
-    "image": "/images/ch1/algiers.webp",
-    "width": 650,
-    "height": 366
+    "image": "/images/ch1/algiers.webp"
   },
   {
     "chapter": 1,
     "path": "the-legend-of-suryothai",
     "title": "The Legend of Suryothai",
-    "Attachments": "https://img.youtube.com/vi/wHxH15e8aRc/hqdefault.jpg",
     "url": "https://www.youtube.com/embed/wHxH15e8aRc",
-    "image": "/images/ch1/suryothai",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch1/suryothai.webp"
   },
   {
     "chapter": 1,
     "path": "seniman-bujang-lapok",
     "title": "Seniman Bujang Lapok",
-    "Attachments": "https://img.youtube.com/vi/qYzTbuD6D1w/hqdefault.jpg",
     "Status": "",
     "image": "/images/ch1/seniman.webp",
-    "url": "https://www.youtube.com/embed/qYzTbuD6D1w",
-    "width": 480,
-    "height": 360
+    "url": "https://www.youtube.com/embed/qYzTbuD6D1w"
   },
   {
     "chapter": 1,
     "path": "indonesian-war-of-independence",
     "title": "Indonesian War of Independence",
-    "Attachments": "https://img.youtube.com/vi/8U2QImMSzwE/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/8U2QImMSzwE",
-    "image": "/images/ch1/idwarofindep.webp",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch1/idwarofindep.webp"
   },
   {
     "chapter": 1,
     "path": "berita-film-di-djawa-disinipoen-medan-perang!,-",
     "title": "Berita Film Di Djawa: Disinipoen Medan Perang!, ",
-    "Attachments": "http://img.youtube.com/vi/bJ-rhWRJD00/hqdefault.jpg",
     "Status": "",
     "url": "http://www.youtube.com/embed/bJ-rhWRJD00",
-    "image": "/images/ch1/djawamedanperang.webp",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch1/djawamedanperang.webp"
   },
   {
     "chapter": 2,
@@ -89,9 +69,7 @@
     "title": "Newspaper article stating that J.C. Lamster was on leave and would be stopping in Paris before heading the East Indies at the end of February. Note: One assumes the stop in Paris was to attend the film workshop",
     "Attachments": "/images/airtable/Lamster_article.webp",
     "Status": "",
-    "url": "https://www.delpher.nl/nl/kranten/view?query=J.C.+Lamster&facets%5Bpapertitle%5D%5B%5D=Nieuwe+Rotterdamsche+Courant&page=1&sortfield=date&coll=ddd&identifier=ddd:010032008:mpeg21:a0005&resultsidentifier=ddd:010032008:mpeg21:a0005&rowid=5",
-    "width": 1026,
-    "height": 1118
+    "url": "https://www.delpher.nl/nl/kranten/view?query=J.C.+Lamster&facets%5Bpapertitle%5D%5B%5D=Nieuwe+Rotterdamsche+Courant&page=1&sortfield=date&coll=ddd&identifier=ddd:010032008:mpeg21:a0005&resultsidentifier=ddd:010032008:mpeg21:a0005&rowid=5"
   },
   {
     "chapter": 2,
@@ -99,9 +77,7 @@
     "title": "Cinema Context ",
     "Attachments": "",
     "Status": "",
-    "image":"/images/ch2/cinemacontext.webp",
-    "width": 1862,
-    "height": 1188,
+    "image": "/images/ch2/cinemacontext.webp",
     "url": "http://www.cinemacontext.nl/"
   },
   {
@@ -110,10 +86,7 @@
     "title": "‘Films Put on Ice for Fans Yet Unborn. Movies Deemed Peculiarly Worthy of Preservation Will Be Treated to Last Forever. Screen Cornerstones. Films for Fans Yet Unborn’, New York Times, 24 Oct. 1926",
     "Attachments": "",
     "Status": "",
-    "image": "/images/ch2/filmsputonice.webp",
-    "width": 1459,
-    "height": 717,
-    "url": "/documents/filmsputonice.pdf"
+    "image": "/images/ch2/filmsputonice.webp"
   },
   {
     "chapter": 2,
@@ -121,9 +94,7 @@
     "title": "Mother Dao poster",
     "Attachments": "/images/airtable/Mostherdaoposter.webp",
     "Status": "",
-    "url": "",
-    "width": 1920,
-    "height": 2880
+    "url": ""
   },
   {
     "chapter": 2,
@@ -132,8 +103,6 @@
     "Attachments": "",
     "Status": "",
     "image": "/images/ch2/motherdao.webp",
-    "width": 5120,
-    "height": 2880,
     "url": "https://dl.airtable.com/.attachments/fc6f6579970fea2059efc3381f368a29/332e4701/MotherDaotheTurttlelikeopeningscene.m4v"
   },
   {
@@ -143,8 +112,6 @@
     "Attachments": "",
     "Status": "",
     "image": "/images/ch2/steflokin.webp",
-    "width": 841,
-    "height": 595,
     "url": "https://dl.airtable.com/.attachments/fd831a80ab2cc0b8b6222bef271d8632/c66b158a/GBD33.pdf"
   },
   {
@@ -153,9 +120,7 @@
     "title": "J.C. Lamster, The East Indies: Giving a Description of the Native Population of Netherlands-Indies and of Its Civilization (Haarlem: Droste, 1929",
     "Attachments": "/images/airtable/Lamsterbookopen.webp",
     "Status": "",
-    "url": "",
-    "width": 4444,
-    "height": 2444
+    "url": ""
   },
   {
     "chapter": 3,
@@ -163,9 +128,7 @@
     "title": "pg 152 quote: J.C. Lamster, The East Indies: Giving a Description of the Native Population of Netherlands-Indies and of Its Civilization (Haarlem: Droste, 1929",
     "Attachments": "/images/airtable/Lamster_p152.webp",
     "Status": "",
-    "url": "",
-    "width": 2999,
-    "height": 2178
+    "url": ""
   },
   {
     "chapter": 3,
@@ -173,9 +136,7 @@
     "title": "Pg3 quote: J.C. Lamster",
     "Attachments": "/images/airtable/Lamster_p3.webp",
     "Status": "",
-    "url": "",
-    "width": 3084,
-    "height": 2143
+    "url": ""
   },
   {
     "chapter": 3,
@@ -183,39 +144,31 @@
     "title": "pg 120 map: Lamster book",
     "Attachments": "/images/airtable/Lamster_pg120.webp",
     "Status": "",
-    "url": "",
-    "width": 3064,
-    "height": 1456
+    "url": ""
   },
   {
     "chapter": 3,
     "path": "overview-of-the-aceh-war",
     "title": "Overview of the Aceh War",
-    "Attachments": "https://img.youtube.com/vi/HWE0d8m9alE/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/HWE0d8m9alE",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch3/acehwar.webp"
   },
   {
     "chapter": 3,
     "path": "jb-van-heutsz-the-pacifier-of-aceh-1851-1924",
     "title": "J.B. van Heutsz - \"The Pacifier of Aceh\" 1851-1924",
-    "Attachments": "https://img.youtube.com/vi/fXcBjZO4kqo/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/fXcBjZO4kqo",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch3/pacifieraceh.webp"
   },
   {
     "chapter": 3,
     "path": "autotocht-door-bandoeng-car-ride-through-bandung",
     "title": "Autotocht  Door Bandoeng [Car Ride through Bandung]",
-    "Attachments": "https://img.youtube.com/vi/6F9grZquk-Q/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/6F9grZquk-Q",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch3/autotochtbandung.webp"
   },
   {
     "chapter": 3,
@@ -224,8 +177,6 @@
     "Attachments": "",
     "Status": "",
     "image": "/images/ch3/hiddenforce.webp",
-    "width": 907,
-    "height": 1360,
     "url": "https://www.gutenberg.org/files/34725/34725-h/34725-h.htm"
   },
   {
@@ -240,41 +191,33 @@
     "chapter": 3,
     "path": "het-leven-van-den-inlander-in-de-desa",
     "title": "Het leven van den Inlander in de Desa",
-    "Attachments": "https://img.youtube.com/vi/ukxRwGPPCCc/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/ukxRwGPPCCc",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch3/levenindesa.webp"
   },
   {
     "chapter": 3,
     "path": "de-pepercultuur-",
     "title": "De Pepercultuur ",
-    "Attachments": "https://img.youtube.com/vi/elxg_C4oK20/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/elxg_C4oK20",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch3/pepercultuur.webp"
   },
   {
     "chapter": 3,
     "path": "rubbercultuur-op-java",
     "title": "Rubbercultuur op Java",
-    "Attachments": "https://img.youtube.com/vi/xT7tm0h38oc/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/xT7tm0h38oc",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch3/rubbercultuur.webp"
   },
   {
     "chapter": 3,
     "path": "viering-van-den-gerebeg-moeloed-te-solo-",
     "title": "Viering van den Gerebeg Moeloed te Solo ",
-    "Attachments": "https://img.youtube.com/vi/2KXz2Dh86DI/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/2KXz2Dh86DI",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch3/gerebeg.webp"
   },
   {
     "chapter": 3,
@@ -282,9 +225,7 @@
     "title": "Het Nederlandsch-Indische Leger; De Infanterie [The Netherlands Indies Army; Infantry]",
     "Attachments": "",
     "Status": "",
-    "url": "",
-    "width": 480,
-    "height": 360
+    "url": ""
   },
   {
     "chapter": 4,
@@ -293,9 +234,7 @@
     "Attachments": "",
     "Status": "",
     "url": "/documents/millionsuitdeli.pdf",
-    "image": "/images/ch4/millionsuitdeli.webp",
-    "width": 406,
-    "height": 651
+    "image": "/images/ch4/millionsuitdeli.webp"
   },
   {
     "chapter": 4,
@@ -303,9 +242,7 @@
     "title": "Coin from Deli, property of author",
     "Attachments": "/images/airtable/sumatra_plantation_token_coins_1624760236_ef2ab32c_progressive.webp",
     "Status": "",
-    "url": "",
-    "width": 1047,
-    "height": 1080
+    "url": ""
   },
   {
     "chapter": 4,
@@ -313,29 +250,23 @@
     "title": "Newspaper article about the elusive Mr. John \"The East Coast in Film\" De Sumatra Post, 3 Nov. 1918.",
     "Attachments": "/images/airtable/DeSumatraPost3Nov.1918..webp",
     "Status": "",
-    "url": "",
-    "width": 672,
-    "height": 610
+    "url": ""
   },
   {
     "chapter": 4,
     "path": "immigratie-in-deli",
     "title": "Immigratie in Deli [Immigration to Deli]",
-    "Attachments": "https://img.youtube.com/vi/JyYzplh4_1s/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/JyYzplh4_1s",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch4/immigratiedeli.webp"
   },
   {
     "chapter": 4,
     "path": "de-tabakscultuur-op-sumatras-oostkust",
     "title": "De tabakscultuur op Sumatra's oostkust",
-    "Attachments": "https://img.youtube.com/vi/WXNLi_6FfqQ/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/WXNLi_6FfqQ",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch4/tabakscultuur.webp"
   },
   {
     "chapter": 4,
@@ -351,18 +282,14 @@
     "title": "J.T. Cremer. Need to get permission from ",
     "Attachments": "/images/airtable/CoolieCremerthefatherofCoolieOrdinanceondisplayinTropenmuseumAmsterdam.webp",
     "Status": "",
-    "url": "",
-    "width": 989,
-    "height": 1421
+    "url": ""
   },
   {
     "chapter": 4,
     "path": "multatuli-rebel-at-the-foundation",
     "title": "Multatuli: rebel at the foundation of modern Dutch Literature, in which Jacqueline Bel, professor of Modern Dutch Literature at the Vrije Universiteit explains the contribution that Multatuli made to Dutch literature and how the writer, as a critical spirit, fought against social injustice.",
-    "Attachments": "https://img.youtube.com/vi/FAjiSHOihcM/hqdefault.jpg",
     "Status": "",
     "url": "https://www.youtube.com/embed/FAjiSHOihcM",
-    "width": 480,
-    "height": 360
+    "image": "/images/ch4/multatuli.webp"
   }
 ]

@@ -8,8 +8,6 @@ interface CardsProps {
   image?: string;
   chapter: number;
   attachment: string;
-  width?: number;
-  height?: number;
 }
 
 const Cards = (props: CardsProps) => {
@@ -19,21 +17,17 @@ const Cards = (props: CardsProps) => {
         <div className="bg-opacity-20 backdrop-blur-sm rounded-lg shadow-lg bg-gray-300 text-left hover:scale-105 transition-all">
           {props.attachment ? (
             <Image
-              src={props.attachment}
+              src={require(`../../public${props.attachment}`)}
               alt={props.attachment}
-              width={props.width}
-              height={props.height}
               className="rounded-t"
             />
           ) : (props.image ? <Image
-            src={props.image}
+            src={require(`../../public${props.image}`)}
             alt={props.image}
-            width={props.width}
-            height={props.height}
             className="rounded-t"
           /> : <></>)}
           <div className="px-3">
-            <p className="text-xs mt-3 mb-1">Chapter {props.chapter}</p>
+            <p className="text-xs mt-2 mb-1">Chapter {props.chapter}</p>
             <h1 className="text-xl font-semibold leading-6 pb-3">
               {props.title}
             </h1>
