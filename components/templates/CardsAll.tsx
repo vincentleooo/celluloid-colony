@@ -100,7 +100,12 @@ const CardsAll = () => {
         {dataJson
           .filter((val) => {
             if (searchTerm == "") {
-              if (selectedOptions.includes(val.chapter)) {
+              if (
+                selectedOptions.includes(val.chapter) &&
+                selectedOptions.length > 0
+              ) {
+                return val;
+              } else if (selectedOptions.length == 0) {
                 return val;
               }
             } else if (
