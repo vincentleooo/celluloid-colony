@@ -4,15 +4,15 @@ const nextConfig = {
   images: {
     domains: ['img.youtube.com']
   },
-  webpack: (config, options) =>
-    {
-        config.module.rules.push({
-            test: /\.pdf$/i,
-            type: 'asset/source'
-        })
+  webpack: (config, options) => {
+    config.module.rules.push({
+      test: /\.pdf$/i,
+      type: 'asset/source'
+    })
 
-        return config
-    },
+    return config
+  },
+  experimental: { images: { allowFutureImage: true } }
 }
 
 module.exports = nextConfig

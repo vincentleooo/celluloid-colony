@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Image from "next/image";
+import Image from "next/future/image";
 
 interface CardsProps {
   title: string;
@@ -17,14 +17,14 @@ const Cards = (props: CardsProps) => {
         <div className="bg-opacity-20 backdrop-blur-sm rounded-lg shadow-lg bg-gray-300 text-left hover:scale-105 transition-all">
           {props.attachment ? (
             <Image
-              src={require(`../../public${props.attachment}`)}
+              src={props.attachment}
               alt={props.attachment}
-              className="rounded-t"
+              className="rounded-t w-full h-full"
             />
           ) : (props.image ? <Image
-            src={require(`../../public${props.image}`)}
+            src={props.image}
             alt={props.image}
-            className="rounded-t"
+            className="rounded-t w-full h-full"
           /> : <></>)}
           <div className="px-3">
             <p className="text-xs mt-2 mb-1">Chapter {props.chapter}</p>
