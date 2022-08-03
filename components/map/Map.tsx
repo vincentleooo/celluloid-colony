@@ -8,12 +8,15 @@ import {
 
 import geoUrl from "../data/topo.json";
 
-const HelloWorld = () => {
-  console.log("Hello");
-  return "hello";
-};
+interface MapProps {
+  onClickFunction: (geo: string) => void;
+  clickedProvince: string;
+}
 
-export default function MapChart() {
+export default function MapChart(props: MapProps) {
+  // const [clickedProvince, setClickedProvince] = useState("");
+  const clickedProvince = props.clickedProvince
+  const handleClick = props.onClickFunction
   return (
     <ComposableMap
       projection="geoMercator"
@@ -24,18 +27,21 @@ export default function MapChart() {
     >
       <Geographies geography={geoUrl}>
         {({ geographies }) =>
-          geographies.map((geo) => (
-            <Geography
-              key={geo.rsmKey}
-              geography={geo}
-              style={{
-                default: { fill: "#fdfaf2" },
-                hover: { fill: "#f2e3af" },
-                pressed: { fill: "#f2e3af" },
-              }}
-              onClick={() => HelloWorld()}
-            />
-          ))
+          geographies.map((geo) => {
+            const isClicked = clickedProvince === geo.properties.name;
+
+            return (
+              <Geography
+                key={geo.rsmKey}
+                geography={geo}
+                fill={isClicked ? "#f2e3af" : "#fdfaf2"}
+                style={{
+                  hover: { fill: "#f2e3af" },
+                }}
+                onClick={() => handleClick(geo.properties.name)}
+              />
+            );
+          })
         }
       </Geographies>
       <Annotation
@@ -49,7 +55,7 @@ export default function MapChart() {
         }}
       >
         <text x="-8" textAnchor="end" alignmentBaseline="middle" fill="#F53">
-          {<a onClick={() => HelloWorld()}>Hello</a>}
+          {"Hello"}
         </text>
       </Annotation>
     </ComposableMap>

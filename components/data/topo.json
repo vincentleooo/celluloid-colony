@@ -56399,7 +56399,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#92794d"}
+          "properties": {"color": "#92794d", "name": "3"}
         },
         {
           "arcs": [
@@ -56992,7 +56992,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#f9f1d7"}
+          "properties": {"color": "#f9f1d7", "name": "4"}
         },
         {
           "arcs": [
@@ -57101,7 +57101,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#f2e3af"}
+          "properties": {"color": "#f2e3af", "name": "5"}
         },
         {
           "arcs": [
@@ -57436,7 +57436,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#f2e3af"}
+          "properties": {"color": "#f2e3af", "name": "6"}
         },
         {
           "arcs": [
@@ -57772,7 +57772,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#f2e3af"}
+          "properties": {"color": "#f2e3af", "name": "1"}
         },
         {
           "arcs": [
@@ -58251,7 +58251,7 @@
           ],
           "type": "MultiPolygon",
           "properties": {"color": "#fdfaf2",
-        "province": "Papua"}
+        "name": "Papua"}
         },
         {
           "arcs": [
@@ -58432,7 +58432,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#ead17a"}
+          "properties": {"color": "#ead17a", "name": "2"}
         }
       ]
     }

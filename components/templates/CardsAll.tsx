@@ -3,6 +3,7 @@ import dataJson from "../data/data.json";
 import Masonry from "react-masonry-css";
 import { useState } from "react";
 import Select from "react-select";
+import MapChart from "../map/Map";
 
 interface ChapterSelection {
   value: number;
@@ -22,6 +23,12 @@ const CardsAll = () => {
   const selectedOptionDefault: number[] = [];
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedOptions, setSelectedOptions] = useState(selectedOptionDefault);
+  const [clickedProvince, setClickedProvince] = useState("");
+
+  const handleClick = (geo: string) => {
+    setClickedProvince(geo);
+    console.log(clickedProvince)
+  }
 
   const handleChange = (value: any) => {
     let newList: number[] = [];
@@ -33,6 +40,7 @@ const CardsAll = () => {
   };
   return (
     <>
+    <MapChart onClickFunction={handleClick} clickedProvince={clickedProvince}></MapChart>
     <div className="grid grid-cols-1 w-full sm:grid-cols-2 gap-6 mb-6 align-center">
         <div className="flex flex-col">
           <p className="text-left mb-1 font-bold text-md">Keyword search:</p>
