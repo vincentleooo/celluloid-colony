@@ -3,7 +3,6 @@ import dataJson from "../data/data.json";
 import Masonry from "react-masonry-css";
 import { useState } from "react";
 import Select from "react-select";
-import makeAnimated from "react-select/animated";
 
 interface ChapterSelection {
   value: number;
@@ -18,8 +17,6 @@ const options: ChapterSelection[] = [
   { value: 5, label: "Chapter 5" },
   { value: 6, label: "Chapter 6" },
 ];
-
-// const animatedComponents = makeAnimated();
 
 const CardsAll = () => {
   const selectedOptionDefault: number[] = [];
@@ -36,7 +33,7 @@ const CardsAll = () => {
   };
   return (
     <>
-      <div className="grid grid-cols-1 w-full sm:grid-cols-2 gap-6 mb-6 align-center">
+    <div className="grid grid-cols-1 w-full sm:grid-cols-2 gap-6 mb-6 align-center">
         <div className="flex flex-col">
           <p className="text-left mb-1 font-bold text-md">Keyword search:</p>
           <input

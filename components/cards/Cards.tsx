@@ -21,13 +21,17 @@ const Cards = (props: CardsProps) => {
               alt={props.attachment}
               className="rounded-t w-full h-full"
             />
-          ) : (props.image ? <Image
-            src={props.image}
-            alt={props.image}
-            className="rounded-t w-full h-full"
-          /> : <></>)}
+          ) : props.image ? (
+            <Image
+              src={props.image}
+              alt={props.image}
+              className="rounded-t w-full h-full"
+            />
+          ) : (
+            <></>
+          )}
           <div className="px-3">
-            <p className="text-xs mt-2 mb-1">Chapter {props.chapter}</p>
+            <p className="text-xs mt-3 mb-1">Chapter {props.chapter}</p>
             <h1 className="text-xl font-semibold leading-6 pb-3">
               {props.title}
             </h1>
