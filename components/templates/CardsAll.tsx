@@ -27,8 +27,8 @@ const CardsAll = () => {
 
   const handleClick = (geo: string) => {
     setClickedProvince(geo);
-    console.log(clickedProvince)
-  }
+    console.log(geo);
+  };
 
   const handleChange = (value: any) => {
     let newList: number[] = [];
@@ -40,8 +40,14 @@ const CardsAll = () => {
   };
   return (
     <>
-    <MapChart onClickFunction={handleClick} clickedProvince={clickedProvince}></MapChart>
-    <div className="grid grid-cols-1 w-full sm:grid-cols-2 gap-6 mb-6 align-center">
+      <div>
+      <p className="text-left mb-1 font-bold text-md">Location search:</p>
+        <MapChart
+          onClickFunction={handleClick}
+          clickedProvince={clickedProvince}
+        ></MapChart>
+      </div>
+      <div className="grid grid-cols-1 w-full sm:grid-cols-2 gap-6 mb-6 align-center">
         <div className="flex flex-col">
           <p className="text-left mb-1 font-bold text-md">Keyword search:</p>
           <input
@@ -62,30 +68,26 @@ const CardsAll = () => {
           ></Select>
         </div>
       </div>
-      {/* <div className="grid gap-6 grid-cols-7 my-6 pb-3 border-b-2">
-        <div>All Chapters</div>
-        <div>Chapter 1</div>
-        <div>Chapter 2</div>
-        <div>Chapter 3</div>
-        <div>Chapter 4</div>
-        <div>Chapter 5</div>
-        <div>Chapter 6</div>
-      </div> */}
       <Masonry breakpointCols={3} className="gap-6 hidden sm:flex">
         {dataJson
           .filter((val) => {
-            if (searchTerm == "") {
-              if (
-                selectedOptions.includes(val.chapter) &&
-                selectedOptions.length > 0
-              ) {
-                return val;
-              } else if (selectedOptions.length == 0) {
-                return val;
-              }
-            } else if (
-              val.title.toLowerCase().includes(searchTerm.toLowerCase())
+            if (
+              searchTerm
+                ? val.title.toLowerCase().includes(searchTerm.toLowerCase())
+                : true
             ) {
+              return val;
+            }
+          })
+          .filter((val) => {
+            if (clickedProvince ? val.province == clickedProvince : true) {
+              return val;
+            }
+          })
+          .filter((val) => {
+            if (selectedOptions.length == 0) {
+              return val;
+            } else if (selectedOptions.includes(val.chapter)) {
               return val;
             }
           })
@@ -104,18 +106,23 @@ const CardsAll = () => {
       <Masonry breakpointCols={1} className="gap-6 flex sm:hidden">
         {dataJson
           .filter((val) => {
-            if (searchTerm == "") {
-              if (
-                selectedOptions.includes(val.chapter) &&
-                selectedOptions.length > 0
-              ) {
-                return val;
-              } else if (selectedOptions.length == 0) {
-                return val;
-              }
-            } else if (
-              val.title.toLowerCase().includes(searchTerm.toLowerCase())
+            if (
+              searchTerm
+                ? val.title.toLowerCase().includes(searchTerm.toLowerCase())
+                : true
             ) {
+              return val;
+            }
+          })
+          .filter((val) => {
+            if (clickedProvince ? val.province == clickedProvince : true) {
+              return val;
+            }
+          })
+          .filter((val) => {
+            if (selectedOptions.length == 0) {
+              return val;
+            } else if (selectedOptions.includes(val.chapter)) {
               return val;
             }
           })

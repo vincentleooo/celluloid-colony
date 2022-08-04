@@ -6,7 +6,8 @@
     "url": "https://www.youtube.com/embed/RToqnIIR2Sk",
     "type": "Film",
     "Attachments": "",
-    "image": "/images/ch1/nanook.webp"
+    "image": "/images/ch1/nanook.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 1,
@@ -14,7 +15,8 @@
     "path": "in-the-land-of-the-headhunters",
     "url": "https://www.youtube.com/embed/QB93E0Ct3W8",
     "type": "Film",
-    "image": "/images/ch1/headhunters.webp"
+    "image": "/images/ch1/headhunters.webp",
+    "province": "Jawa"
   },
   {
     "chapter": 1,
@@ -22,7 +24,8 @@
     "path": "kitlv-recording-the-future",
     "url": "https://kitlv.nl/research-projects-recording-the-future/",
     "type": "Film",
-    "image": "/images/ch1/recordingfuture.webp"
+    "image": "/images/ch1/recordingfuture.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 1,
@@ -30,14 +33,16 @@
     "path": "battle-of-algiers",
     "url": "https://www.criterion.com/current/posts/4214-the-battle-of-algiers-turns-fifty",
     "type": "Article",
-    "image": "/images/ch1/algiers.webp"
+    "image": "/images/ch1/algiers.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 1,
     "path": "the-legend-of-suryothai",
     "title": "The Legend of Suryothai",
     "url": "https://www.youtube.com/embed/wHxH15e8aRc",
-    "image": "/images/ch1/suryothai.webp"
+    "image": "/images/ch1/suryothai.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 1,
@@ -45,7 +50,8 @@
     "title": "Seniman Bujang Lapok",
     "Status": "",
     "image": "/images/ch1/seniman.webp",
-    "url": "https://www.youtube.com/embed/qYzTbuD6D1w"
+    "url": "https://www.youtube.com/embed/qYzTbuD6D1w",
+    "province": "Maluku"
   },
   {
     "chapter": 1,
@@ -53,7 +59,8 @@
     "title": "Indonesian War of Independence",
     "Status": "",
     "url": "https://www.youtube.com/embed/8U2QImMSzwE",
-    "image": "/images/ch1/idwarofindep.webp"
+    "image": "/images/ch1/idwarofindep.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 1,
@@ -61,7 +68,8 @@
     "title": "Berita Film Di Djawa: Disinipoen Medan Perang!, ",
     "Status": "",
     "url": "http://www.youtube.com/embed/bJ-rhWRJD00",
-    "image": "/images/ch1/djawamedanperang.webp"
+    "image": "/images/ch1/djawamedanperang.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 2,
@@ -69,7 +77,8 @@
     "title": "Newspaper article stating that J.C. Lamster was on leave and would be stopping in Paris before heading the East Indies at the end of February. Note: One assumes the stop in Paris was to attend the film workshop",
     "Attachments": "/images/airtable/Lamster_article.webp",
     "Status": "",
-    "url": "https://www.delpher.nl/nl/kranten/view?query=J.C.+Lamster&facets%5Bpapertitle%5D%5B%5D=Nieuwe+Rotterdamsche+Courant&page=1&sortfield=date&coll=ddd&identifier=ddd:010032008:mpeg21:a0005&resultsidentifier=ddd:010032008:mpeg21:a0005&rowid=5"
+    "url": "https://www.delpher.nl/nl/kranten/view?query=J.C.+Lamster&facets%5Bpapertitle%5D%5B%5D=Nieuwe+Rotterdamsche+Courant&page=1&sortfield=date&coll=ddd&identifier=ddd:010032008:mpeg21:a0005&resultsidentifier=ddd:010032008:mpeg21:a0005&rowid=5",
+    "province": "Maluku"
   },
   {
     "chapter": 2,
@@ -78,7 +87,8 @@
     "Attachments": "",
     "Status": "",
     "image": "/images/ch2/cinemacontext.webp",
-    "url": "http://www.cinemacontext.nl/"
+    "url": "http://www.cinemacontext.nl/",
+    "province": "Maluku"
   },
   {
     "chapter": 2,
@@ -87,7 +97,8 @@
     "Attachments": "",
     "Status": "",
     "image": "/images/ch2/filmsputonice.webp",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 2,
@@ -95,7 +106,8 @@
     "title": "Mother Dao poster",
     "Attachments": "/images/airtable/Mostherdaoposter.webp",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 2,
@@ -104,7 +116,8 @@
     "Attachments": "",
     "Status": "",
     "image": "/images/ch2/motherdao.webp",
-    "url": "https://player.vimeo.com/video/735314341?h=acad271674&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+    "url": "https://player.vimeo.com/video/735314341?h=acad271674&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+    "province": "Maluku"
   },
   {
     "chapter": 2,
@@ -113,7 +126,8 @@
     "Attachments": "",
     "Status": "",
     "image": "/images/ch2/steflokin.webp",
-    "url": "https://dl.airtable.com/.attachments/fd831a80ab2cc0b8b6222bef271d8632/c66b158a/GBD33.pdf"
+    "url": "https://dl.airtable.com/.attachments/fd831a80ab2cc0b8b6222bef271d8632/c66b158a/GBD33.pdf",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -121,7 +135,8 @@
     "title": "J.C. Lamster, The East Indies: Giving a Description of the Native Population of Netherlands-Indies and of Its Civilization (Haarlem: Droste, 1929",
     "Attachments": "/images/airtable/Lamsterbookopen.webp",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -129,7 +144,8 @@
     "title": "pg 152 quote: J.C. Lamster, The East Indies: Giving a Description of the Native Population of Netherlands-Indies and of Its Civilization (Haarlem: Droste, 1929",
     "Attachments": "/images/airtable/Lamster_p152.webp",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -137,7 +153,8 @@
     "title": "Pg3 quote: J.C. Lamster",
     "Attachments": "/images/airtable/Lamster_p3.webp",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -145,7 +162,8 @@
     "title": "pg 120 map: Lamster book",
     "Attachments": "/images/airtable/Lamster_pg120.webp",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -153,7 +171,8 @@
     "title": "Overview of the Aceh War",
     "Status": "",
     "url": "https://www.youtube.com/embed/HWE0d8m9alE",
-    "image": "/images/ch3/acehwar.webp"
+    "image": "/images/ch3/acehwar.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -161,7 +180,8 @@
     "title": "J.B. van Heutsz - \"The Pacifier of Aceh\" 1851-1924",
     "Status": "",
     "url": "https://www.youtube.com/embed/fXcBjZO4kqo",
-    "image": "/images/ch3/pacifieraceh.webp"
+    "image": "/images/ch3/pacifieraceh.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -169,7 +189,8 @@
     "title": "Autotocht  Door Bandoeng [Car Ride through Bandung]",
     "Status": "",
     "url": "https://www.youtube.com/embed/6F9grZquk-Q",
-    "image": "/images/ch3/autotochtbandung.webp"
+    "image": "/images/ch3/autotochtbandung.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -178,7 +199,8 @@
     "Attachments": "",
     "Status": "",
     "image": "/images/ch3/hiddenforce.webp",
-    "url": "https://www.gutenberg.org/files/34725/34725-h/34725-h.htm"
+    "url": "https://www.gutenberg.org/files/34725/34725-h/34725-h.htm",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -186,7 +208,8 @@
     "title": "Het Leven der Europeanen in Indië ",
     "Attachments": "",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -194,7 +217,8 @@
     "title": "Het leven van den Inlander in de Desa",
     "Status": "",
     "url": "https://www.youtube.com/embed/ukxRwGPPCCc",
-    "image": "/images/ch3/levenindesa.webp"
+    "image": "/images/ch3/levenindesa.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -202,7 +226,8 @@
     "title": "De Pepercultuur ",
     "Status": "",
     "url": "https://www.youtube.com/embed/elxg_C4oK20",
-    "image": "/images/ch3/pepercultuur.webp"
+    "image": "/images/ch3/pepercultuur.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -210,7 +235,8 @@
     "title": "Rubbercultuur op Java",
     "Status": "",
     "url": "https://www.youtube.com/embed/xT7tm0h38oc",
-    "image": "/images/ch3/rubbercultuur.webp"
+    "image": "/images/ch3/rubbercultuur.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -218,7 +244,8 @@
     "title": "Viering van den Gerebeg Moeloed te Solo ",
     "Status": "",
     "url": "https://www.youtube.com/embed/2KXz2Dh86DI",
-    "image": "/images/ch3/gerebeg.webp"
+    "image": "/images/ch3/gerebeg.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 3,
@@ -226,7 +253,8 @@
     "title": "Het Nederlandsch-Indische Leger; De Infanterie [The Netherlands Indies Army; Infantry]",
     "Attachments": "",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 4,
@@ -235,7 +263,8 @@
     "Attachments": "",
     "Status": "",
     "url": "/documents/millionsuitdeli.pdf",
-    "image": "/images/ch4/millionsuitdeli.webp"
+    "image": "/images/ch4/millionsuitdeli.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 4,
@@ -243,7 +272,8 @@
     "title": "Coin from Deli, property of author",
     "Attachments": "/images/airtable/sumatra_plantation_token_coins_1624760236_ef2ab32c_progressive.webp",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 4,
@@ -251,7 +281,8 @@
     "title": "Newspaper article about the elusive Mr. John \"The East Coast in Film\" De Sumatra Post, 3 Nov. 1918.",
     "Attachments": "/images/airtable/DeSumatraPost3Nov.1918..webp",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 4,
@@ -259,7 +290,8 @@
     "title": "Immigratie in Deli [Immigration to Deli]",
     "Status": "",
     "url": "https://www.youtube.com/embed/JyYzplh4_1s",
-    "image": "/images/ch4/immigratiedeli.webp"
+    "image": "/images/ch4/immigratiedeli.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 4,
@@ -267,7 +299,8 @@
     "title": "De tabakscultuur op Sumatra's oostkust",
     "Status": "",
     "url": "https://www.youtube.com/embed/WXNLi_6FfqQ",
-    "image": "/images/ch4/tabakscultuur.webp"
+    "image": "/images/ch4/tabakscultuur.webp",
+    "province": "Maluku"
   },
   {
     "chapter": 4,
@@ -275,7 +308,8 @@
     "title": "The Rhemrev Report link to online pdf",
     "Attachments": "",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 4,
@@ -283,7 +317,8 @@
     "title": "J.T. Cremer. Need to get permission from ",
     "Attachments": "/images/airtable/CoolieCremerthefatherofCoolieOrdinanceondisplayinTropenmuseumAmsterdam.webp",
     "Status": "",
-    "url": ""
+    "url": "",
+    "province": "Maluku"
   },
   {
     "chapter": 4,
@@ -291,6 +326,7 @@
     "title": "Multatuli: rebel at the foundation of modern Dutch Literature, in which Jacqueline Bel, professor of Modern Dutch Literature at the Vrije Universiteit explains the contribution that Multatuli made to Dutch literature and how the writer, as a critical spirit, fought against social injustice.",
     "Status": "",
     "url": "https://www.youtube.com/embed/FAjiSHOihcM",
-    "image": "/images/ch4/multatuli.webp"
+    "image": "/images/ch4/multatuli.webp",
+    "province": "Maluku"
   }
 ]

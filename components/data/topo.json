@@ -56399,7 +56399,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#92794d", "name": "3"}
+          "properties": {"color": "#92794d", "name": "Sumatra"}
         },
         {
           "arcs": [
@@ -56992,7 +56992,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#f9f1d7", "name": "4"}
+          "properties": {"color": "#f9f1d7", "name": "Timur"}
         },
         {
           "arcs": [
@@ -57101,7 +57101,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#f2e3af", "name": "5"}
+          "properties": {"color": "#f2e3af", "name": "Jawa"}
         },
         {
           "arcs": [
@@ -57436,7 +57436,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#f2e3af", "name": "6"}
+          "properties": {"color": "#f2e3af", "name": "Kalimantan"}
         },
         {
           "arcs": [
@@ -57772,7 +57772,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#f2e3af", "name": "1"}
+          "properties": {"color": "#f2e3af", "name": "Sulawesi"}
         },
         {
           "arcs": [
@@ -58432,7 +58432,7 @@
             ]
           ],
           "type": "MultiPolygon",
-          "properties": {"color": "#ead17a", "name": "2"}
+          "properties": {"color": "#ead17a", "name": "Maluku"}
         }
       ]
     }
