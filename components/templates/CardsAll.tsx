@@ -11,6 +11,7 @@ interface ChapterSelection {
 }
 
 const options: ChapterSelection[] = [
+  { value: 0, label: "Introduction" },
   { value: 1, label: "Chapter 1" },
   { value: 2, label: "Chapter 2" },
   { value: 3, label: "Chapter 3" },
@@ -41,11 +42,12 @@ const CardsAll = () => {
   return (
     <>
       <div>
-      <p className="text-left mb-1 font-bold text-md">Location search:</p>
+      <p className="text-left mb-1 font-bold text-md">Location search (still in testing):</p>
         <MapChart
           onClickFunction={handleClick}
           clickedProvince={clickedProvince}
         ></MapChart>
+        {/* <button className="">Other locations</button> */}
       </div>
       <div className="grid grid-cols-1 w-full sm:grid-cols-2 gap-6 mb-6 align-center">
         <div className="flex flex-col">
@@ -95,7 +97,7 @@ const CardsAll = () => {
             <div key={e.title} className="mb-6">
               <Cards
                 link={"resources/" + e.path}
-                chapter={e.chapter}
+                chapter={options[e.chapter].label}
                 title={e.title}
                 image={e.image}
                 attachment={e.Attachments ? e.Attachments : ""}
@@ -130,7 +132,7 @@ const CardsAll = () => {
             <div key={e.title} className="mb-6">
               <Cards
                 link={"resources/" + e.path}
-                chapter={e.chapter}
+                chapter={options[e.chapter].label}
                 title={e.title}
                 image={e.image}
                 attachment={e.Attachments ? e.Attachments : ""}

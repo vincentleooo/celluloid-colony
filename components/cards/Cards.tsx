@@ -6,7 +6,7 @@ interface CardsProps {
   content?: string;
   link: string;
   image?: string;
-  chapter: number;
+  chapter: string;
   attachment: string;
 }
 
@@ -31,7 +31,7 @@ const Cards = (props: CardsProps) => {
             <></>
           )}
           <div className="px-3">
-            <p className="text-xs mt-3 mb-1">Chapter {props.chapter}</p>
+            <p className="text-xs mt-3 mb-1">{props.chapter}</p>
             <h1 className="text-xl font-semibold leading-6 pb-3">
               {props.title}
             </h1>

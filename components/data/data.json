@@ -1,332 +1,582 @@
 [
-  {
-    "chapter": 1,
-    "title": "Nanook of the North",
-    "path": "nanook-of-the-north",
-    "url": "https://www.youtube.com/embed/RToqnIIR2Sk",
-    "type": "Film",
-    "Attachments": "",
-    "image": "/images/ch1/nanook.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 1,
-    "title": "In the Land of the Headhunters",
-    "path": "in-the-land-of-the-headhunters",
-    "url": "https://www.youtube.com/embed/QB93E0Ct3W8",
-    "type": "Film",
-    "image": "/images/ch1/headhunters.webp",
-    "province": "Jawa"
-  },
-  {
-    "chapter": 1,
-    "title": "KITLV: Recording the Future",
-    "path": "kitlv-recording-the-future",
-    "url": "https://kitlv.nl/research-projects-recording-the-future/",
-    "type": "Film",
-    "image": "/images/ch1/recordingfuture.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 1,
-    "title": "Battle of Algiers",
-    "path": "battle-of-algiers",
-    "url": "https://www.criterion.com/current/posts/4214-the-battle-of-algiers-turns-fifty",
-    "type": "Article",
-    "image": "/images/ch1/algiers.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 1,
-    "path": "the-legend-of-suryothai",
-    "title": "The Legend of Suryothai",
-    "url": "https://www.youtube.com/embed/wHxH15e8aRc",
-    "image": "/images/ch1/suryothai.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 1,
-    "path": "seniman-bujang-lapok",
-    "title": "Seniman Bujang Lapok",
-    "Status": "",
-    "image": "/images/ch1/seniman.webp",
-    "url": "https://www.youtube.com/embed/qYzTbuD6D1w",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 1,
-    "path": "indonesian-war-of-independence",
-    "title": "Indonesian War of Independence",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/8U2QImMSzwE",
-    "image": "/images/ch1/idwarofindep.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 1,
-    "path": "berita-film-di-djawa-disinipoen-medan-perang!,-",
-    "title": "Berita Film Di Djawa: Disinipoen Medan Perang!, ",
-    "Status": "",
-    "url": "http://www.youtube.com/embed/bJ-rhWRJD00",
-    "image": "/images/ch1/djawamedanperang.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 2,
-    "path": "newspaper-article-stating-that-jc-lamster",
-    "title": "Newspaper article stating that J.C. Lamster was on leave and would be stopping in Paris before heading the East Indies at the end of February. Note: One assumes the stop in Paris was to attend the film workshop",
-    "Attachments": "/images/airtable/Lamster_article.webp",
-    "Status": "",
-    "url": "https://www.delpher.nl/nl/kranten/view?query=J.C.+Lamster&facets%5Bpapertitle%5D%5B%5D=Nieuwe+Rotterdamsche+Courant&page=1&sortfield=date&coll=ddd&identifier=ddd:010032008:mpeg21:a0005&resultsidentifier=ddd:010032008:mpeg21:a0005&rowid=5",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 2,
-    "path": "cinema-context-",
-    "title": "Cinema Context ",
-    "Attachments": "",
-    "Status": "",
-    "image": "/images/ch2/cinemacontext.webp",
-    "url": "http://www.cinemacontext.nl/",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 2,
-    "path": "‘films-put-on-ice-for-fans",
-    "title": "‘Films Put on Ice for Fans Yet Unborn. Movies Deemed Peculiarly Worthy of Preservation Will Be Treated to Last Forever. Screen Cornerstones. Films for Fans Yet Unborn’, New York Times, 24 Oct. 1926",
-    "Attachments": "",
-    "Status": "",
-    "image": "/images/ch2/filmsputonice.webp",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 2,
-    "path": "mother-dao-poster",
-    "title": "Mother Dao poster",
-    "Attachments": "/images/airtable/Mostherdaoposter.webp",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 2,
-    "path": "mother-dao-opening-sequence",
-    "title": "Mother Dao opening sequence",
-    "Attachments": "",
-    "Status": "",
-    "image": "/images/ch2/motherdao.webp",
-    "url": "https://player.vimeo.com/video/735314341?h=acad271674&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 2,
-    "path": "stef-lokin-een-gesprek",
-    "title": "Stef Lokin, ‘Een gesprek met beeldresearcher Rogier Smeele, Oude beelden en een nieuwe visie’, GBG-Nieuws 33 (1995): 35–8",
-    "Attachments": "",
-    "Status": "",
-    "image": "/images/ch2/steflokin.webp",
-    "url": "https://dl.airtable.com/.attachments/fd831a80ab2cc0b8b6222bef271d8632/c66b158a/GBD33.pdf",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "jc-lamster,-the-east-indies-giving-a-description-of-the-native-population-of-netherlands-indies-and-of-its-civilization-(haarlem-droste,-1929",
-    "title": "J.C. Lamster, The East Indies: Giving a Description of the Native Population of Netherlands-Indies and of Its Civilization (Haarlem: Droste, 1929",
-    "Attachments": "/images/airtable/Lamsterbookopen.webp",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "pg-152-quote-jc-lamster,-the-east-indies-giving-a-description-of-the-native-population-of-netherlands-indies-and-of-its-civilization-(haarlem-droste,-1929",
-    "title": "pg 152 quote: J.C. Lamster, The East Indies: Giving a Description of the Native Population of Netherlands-Indies and of Its Civilization (Haarlem: Droste, 1929",
-    "Attachments": "/images/airtable/Lamster_p152.webp",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "pg3-quote-jc-lamster",
-    "title": "Pg3 quote: J.C. Lamster",
-    "Attachments": "/images/airtable/Lamster_p3.webp",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "pg-120-map-lamster-book",
-    "title": "pg 120 map: Lamster book",
-    "Attachments": "/images/airtable/Lamster_pg120.webp",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "overview-of-the-aceh-war",
-    "title": "Overview of the Aceh War",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/HWE0d8m9alE",
-    "image": "/images/ch3/acehwar.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "jb-van-heutsz-the-pacifier-of-aceh-1851-1924",
-    "title": "J.B. van Heutsz - \"The Pacifier of Aceh\" 1851-1924",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/fXcBjZO4kqo",
-    "image": "/images/ch3/pacifieraceh.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "autotocht-door-bandoeng-car-ride-through-bandung",
-    "title": "Autotocht  Door Bandoeng [Car Ride through Bandung]",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/6F9grZquk-Q",
-    "image": "/images/ch3/autotochtbandung.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "ebook-of-the-hidden-force-by-louis-couperus",
-    "title": "EBook of The Hidden Force, by Louis Couperus",
-    "Attachments": "",
-    "Status": "",
-    "image": "/images/ch3/hiddenforce.webp",
-    "url": "https://www.gutenberg.org/files/34725/34725-h/34725-h.htm",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "het-leven-der-europeanen-in-indië-",
-    "title": "Het Leven der Europeanen in Indië ",
-    "Attachments": "",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "het-leven-van-den-inlander-in-de-desa",
-    "title": "Het leven van den Inlander in de Desa",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/ukxRwGPPCCc",
-    "image": "/images/ch3/levenindesa.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "de-pepercultuur-",
-    "title": "De Pepercultuur ",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/elxg_C4oK20",
-    "image": "/images/ch3/pepercultuur.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "rubbercultuur-op-java",
-    "title": "Rubbercultuur op Java",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/xT7tm0h38oc",
-    "image": "/images/ch3/rubbercultuur.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "viering-van-den-gerebeg-moeloed-te-solo-",
-    "title": "Viering van den Gerebeg Moeloed te Solo ",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/2KXz2Dh86DI",
-    "image": "/images/ch3/gerebeg.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 3,
-    "path": "het-nederlandsch-indische-leger",
-    "title": "Het Nederlandsch-Indische Leger; De Infanterie [The Netherlands Indies Army; Infantry]",
-    "Attachments": "",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 4,
-    "path": "link-to-millions-from-deli-by-van-den-brand",
-    "title": "Link to 'Millions from Deli' by Van den Brand",
-    "Attachments": "",
-    "Status": "",
-    "url": "/documents/millionsuitdeli.pdf",
-    "image": "/images/ch4/millionsuitdeli.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 4,
-    "path": "coin-from-deli,-property-of-author",
-    "title": "Coin from Deli, property of author",
-    "Attachments": "/images/airtable/sumatra_plantation_token_coins_1624760236_ef2ab32c_progressive.webp",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 4,
-    "path": "newspaper-article-about-the-elusive-mr-john",
-    "title": "Newspaper article about the elusive Mr. John \"The East Coast in Film\" De Sumatra Post, 3 Nov. 1918.",
-    "Attachments": "/images/airtable/DeSumatraPost3Nov.1918..webp",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 4,
-    "path": "immigratie-in-deli",
-    "title": "Immigratie in Deli [Immigration to Deli]",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/JyYzplh4_1s",
-    "image": "/images/ch4/immigratiedeli.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 4,
-    "path": "de-tabakscultuur-op-sumatras-oostkust",
-    "title": "De tabakscultuur op Sumatra's oostkust",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/WXNLi_6FfqQ",
-    "image": "/images/ch4/tabakscultuur.webp",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 4,
-    "path": "the-rhemrev-report-link-to-online-pdf",
-    "title": "The Rhemrev Report link to online pdf",
-    "Attachments": "",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 4,
-    "path": "jt-cremer-need-to-get-permission-from-",
-    "title": "J.T. Cremer. Need to get permission from ",
-    "Attachments": "/images/airtable/CoolieCremerthefatherofCoolieOrdinanceondisplayinTropenmuseumAmsterdam.webp",
-    "Status": "",
-    "url": "",
-    "province": "Maluku"
-  },
-  {
-    "chapter": 4,
-    "path": "multatuli-rebel-at-the-foundation",
-    "title": "Multatuli: rebel at the foundation of modern Dutch Literature, in which Jacqueline Bel, professor of Modern Dutch Literature at the Vrije Universiteit explains the contribution that Multatuli made to Dutch literature and how the writer, as a critical spirit, fought against social injustice.",
-    "Status": "",
-    "url": "https://www.youtube.com/embed/FAjiSHOihcM",
-    "image": "/images/ch4/multatuli.webp",
-    "province": "Maluku"
-  }
+	{
+		"chapter": 0,
+		"path": "beeld-and-geluid",
+		"title": "p. 2\nBeeld and Geluid: Knowledge Sources",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch0/meneeruil.webp",
+		"url": "https://www.beeldengeluid.nl/en/knowledge/sources",
+		"province": ""
+	},
+	{
+		"chapter": 0,
+		"path": "ourousoff-heaven-hell-purgatory",
+		"title": "p. 1 \nNicolai Ouroussoff, ‘Heaven, Hell and Purgatory, Encased in Glass’, New York Times, 26 May 2007",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch0/heavenhellpurgatory.webp",
+		"url": "https://www.nytimes.com/2007/05/26/arts/design/26visi.html",
+		"province": ""
+	},
+	{
+		"chapter": 0,
+		"path": "hendriks-voorbeeldige-kolonie",
+		"title": "p. 3\nG.A. Jansen Hendriks: Een voorbeeldige kolonie: Nederlands-Indië in 50 jaar overheidsfilms, 1912-1962",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch0/eenvoorbeeldigekolonie.webp",
+		"url": "https://dare.uva.nl/search?identifier=c5e4aa22-6ec6-493f-a680-81b244c33897",
+		"province": ""
+	},
+	{
+		"chapter": 0,
+		"path": "holland-neutraal",
+		"title": "p 14. \nHolland Neutraal: Leger en Vlootfilm [Holland Neutral: The Army and Fleet]",
+		"Attachments": "/images/ch0/hollandneutraal.webp",
+		"Status": "",
+		"image": "",
+		"url": "https://www.youtube.com/watch?v=YAI7IK5bTsE",
+		"province": ""
+	},
+	{
+		"chapter": 0,
+		"path": "polygoon-ad",
+		"title": "p. 18\nPolygoon advertisement ",
+		"Attachments": "/images/ch0/polygoonad.webp",
+		"Status": "",
+		"image": "",
+		"url": "",
+		"province": ""
+	},
+	{
+		"chapter": 1,
+		"title": "Nanook of the North",
+		"path": "nanook-of-the-north",
+		"url": "https://www.youtube.com/embed/RToqnIIR2Sk",
+		"type": "Film",
+		"Attachments": "",
+		"image": "/images/ch1/nanook.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 1,
+		"title": "In the Land of the Headhunters",
+		"path": "in-the-land-of-the-headhunters",
+		"url": "https://www.youtube.com/embed/QB93E0Ct3W8",
+		"type": "Film",
+		"image": "/images/ch1/headhunters.webp",
+		"province": "Jawa"
+	},
+	{
+		"chapter": 1,
+		"title": "KITLV: Recording the Future",
+		"path": "kitlv-recording-the-future",
+		"url": "https://kitlv.nl/research-projects-recording-the-future/",
+		"type": "Film",
+		"image": "/images/ch1/recordingfuture.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 1,
+		"title": "Battle of Algiers",
+		"path": "battle-of-algiers",
+		"url": "https://www.criterion.com/current/posts/4214-the-battle-of-algiers-turns-fifty",
+		"type": "Article",
+		"image": "/images/ch1/algiers.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 1,
+		"path": "the-legend-of-suryothai",
+		"title": "The Legend of Suryothai",
+		"url": "https://www.youtube.com/embed/wHxH15e8aRc",
+		"image": "/images/ch1/suryothai.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 1,
+		"path": "seniman-bujang-lapok",
+		"title": "Seniman Bujang Lapok",
+		"Status": "",
+		"image": "/images/ch1/seniman.webp",
+		"url": "https://www.youtube.com/embed/qYzTbuD6D1w",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 1,
+		"path": "indonesian-war-of-independence",
+		"title": "Indonesian War of Independence",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/8U2QImMSzwE",
+		"image": "/images/ch1/idwarofindep.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 1,
+		"path": "berita-film-di-djawa-disinipoen-medan-perang!,-",
+		"title": "Berita Film Di Djawa: Disinipoen Medan Perang!, ",
+		"Status": "",
+		"url": "http://www.youtube.com/embed/bJ-rhWRJD00",
+		"image": "/images/ch1/djawamedanperang.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 2,
+		"path": "newspaper-article-stating-that-jc-lamster",
+		"title": "Newspaper article stating that J.C. Lamster was on leave and would be stopping in Paris before heading the East Indies at the end of February. Note: One assumes the stop in Paris was to attend the film workshop",
+		"Attachments": "/images/airtable/Lamster_article.webp",
+		"Status": "",
+		"url": "https://www.delpher.nl/nl/kranten/view?query=J.C.+Lamster&facets%5Bpapertitle%5D%5B%5D=Nieuwe+Rotterdamsche+Courant&page=1&sortfield=date&coll=ddd&identifier=ddd:010032008:mpeg21:a0005&resultsidentifier=ddd:010032008:mpeg21:a0005&rowid=5",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 2,
+		"path": "cinema-context-",
+		"title": "Cinema Context ",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch2/cinemacontext.webp",
+		"url": "http://www.cinemacontext.nl/",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 2,
+		"path": "‘films-put-on-ice-for-fans",
+		"title": "‘Films Put on Ice for Fans Yet Unborn. Movies Deemed Peculiarly Worthy of Preservation Will Be Treated to Last Forever. Screen Cornerstones. Films for Fans Yet Unborn’, New York Times, 24 Oct. 1926",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch2/filmsputonice.webp",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 2,
+		"path": "mother-dao-poster",
+		"title": "Mother Dao poster",
+		"Attachments": "/images/airtable/Mostherdaoposter.webp",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 2,
+		"path": "mother-dao-opening-sequence",
+		"title": "Mother Dao opening sequence",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch2/motherdao.webp",
+		"url": "https://player.vimeo.com/video/735314341?h=acad271674&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 2,
+		"path": "stef-lokin-een-gesprek",
+		"title": "Stef Lokin, ‘Een gesprek met beeldresearcher Rogier Smeele, Oude beelden en een nieuwe visie’, GBG-Nieuws 33 (1995): 35–8",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch2/steflokin.webp",
+		"url": "https://dl.airtable.com/.attachments/fd831a80ab2cc0b8b6222bef271d8632/c66b158a/GBD33.pdf",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 2,
+		"path": "eyes-across-water",
+		"title": "p. 46 ‘Eyes Across the Water’ Visual Anthropology Conference, Amsterdam",
+		"Attachments": "https://dl.airtable.com/.attachments/03a4e29a680c89bae42f2422592db5c0/b196347d/1449364744_0_x.jpg",
+		"Status": "",
+		"image": "",
+		"url": "",
+		"province": ""
+	},
+	{
+		"chapter": 2,
+		"path": "forgasc-eye",
+		"title": "p. 49\nPeter Forgasc’s exhibition at the EYE in 2013 titled ‘Looming Fire: Stories from the Dutch East Indies 1900–1940’. Forgasc appropriated home movies and other personal documents for this installation, aiming to recreate a semblance of daily life of Europeans in the Netherlands East Indies, but he admitted that he took artistic and personal licences: ‘I make compositions on the basis of the material I have found. They are personal interpretations of history, not documentaries aiming at objectivity’ (Forgasc 2013).",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch2/loomingfire.webp",
+		"url": "http://forgacspeter.hu/english/installations/Looming+Fire/83",
+		"province": ""
+	},
+	{
+		"chapter": 3,
+		"path": "jc-lamster,-the-east-indies-giving-a-description-of-the-native-population-of-netherlands-indies-and-of-its-civilization-(haarlem-droste,-1929",
+		"title": "J.C. Lamster, The East Indies: Giving a Description of the Native Population of Netherlands-Indies and of Its Civilization (Haarlem: Droste, 1929",
+		"Attachments": "/images/airtable/Lamsterbookopen.webp",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "pg-152-quote-jc-lamster,-the-east-indies-giving-a-description-of-the-native-population-of-netherlands-indies-and-of-its-civilization-(haarlem-droste,-1929",
+		"title": "pg 152 quote: J.C. Lamster, The East Indies: Giving a Description of the Native Population of Netherlands-Indies and of Its Civilization (Haarlem: Droste, 1929",
+		"Attachments": "/images/airtable/Lamster_p152.webp",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "pg3-quote-jc-lamster",
+		"title": "Pg3 quote: J.C. Lamster",
+		"Attachments": "/images/airtable/Lamster_p3.webp",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "pg-120-map-lamster-book",
+		"title": "pg 120 map: Lamster book",
+		"Attachments": "/images/airtable/Lamster_pg120.webp",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "overview-of-the-aceh-war",
+		"title": "Overview of the Aceh War",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/HWE0d8m9alE",
+		"image": "/images/ch3/acehwar.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "jb-van-heutsz-the-pacifier-of-aceh-1851-1924",
+		"title": "J.B. van Heutsz - \"The Pacifier of Aceh\" 1851-1924",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/fXcBjZO4kqo",
+		"image": "/images/ch3/pacifieraceh.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "autotocht-door-bandoeng-car-ride-through-bandung",
+		"title": "Autotocht  Door Bandoeng [Car Ride through Bandung]",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/6F9grZquk-Q",
+		"image": "/images/ch3/autotochtbandung.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "ebook-of-the-hidden-force-by-louis-couperus",
+		"title": "EBook of The Hidden Force, by Louis Couperus",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch3/hiddenforce.webp",
+		"url": "https://www.gutenberg.org/files/34725/34725-h/34725-h.htm",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "het-leven-der-europeanen-in-indië-",
+		"title": "Het Leven der Europeanen in Indië ",
+		"Attachments": "",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "het-leven-van-den-inlander-in-de-desa",
+		"title": "Het leven van den Inlander in de Desa",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/ukxRwGPPCCc",
+		"image": "/images/ch3/levenindesa.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "de-pepercultuur-",
+		"title": "De Pepercultuur ",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/elxg_C4oK20",
+		"image": "/images/ch3/pepercultuur.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "rubbercultuur-op-java",
+		"title": "Rubbercultuur op Java",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/xT7tm0h38oc",
+		"image": "/images/ch3/rubbercultuur.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "viering-van-den-gerebeg-moeloed-te-solo-",
+		"title": "Viering van den Gerebeg Moeloed te Solo ",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/2KXz2Dh86DI",
+		"image": "/images/ch3/gerebeg.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 3,
+		"path": "het-nederlandsch-indische-leger",
+		"title": "Het Nederlandsch-Indische Leger; De Infanterie [The Netherlands Indies Army; Infantry]",
+		"Attachments": "",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 4,
+		"path": "link-to-millions-from-deli-by-van-den-brand",
+		"title": "Link to 'Millions from Deli' by Van den Brand",
+		"Attachments": "",
+		"Status": "",
+		"url": "/documents/millionsuitdeli.pdf",
+		"image": "/images/ch4/millionsuitdeli.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 4,
+		"path": "coin-from-deli,-property-of-author",
+		"title": "Coin from Deli, property of author",
+		"Attachments": "/images/airtable/sumatra_plantation_token_coins_1624760236_ef2ab32c_progressive.webp",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 4,
+		"path": "newspaper-article-about-the-elusive-mr-john",
+		"title": "Newspaper article about the elusive Mr. John \"The East Coast in Film\" De Sumatra Post, 3 Nov. 1918.",
+		"Attachments": "/images/airtable/DeSumatraPost3Nov.1918..webp",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 4,
+		"path": "immigratie-in-deli",
+		"title": "Immigratie in Deli [Immigration to Deli]",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/JyYzplh4_1s",
+		"image": "/images/ch4/immigratiedeli.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 4,
+		"path": "de-tabakscultuur-op-sumatras-oostkust",
+		"title": "De tabakscultuur op Sumatra's oostkust",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/WXNLi_6FfqQ",
+		"image": "/images/ch4/tabakscultuur.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 4,
+		"path": "the-rhemrev-report-link-to-online-pdf",
+		"title": "The Rhemrev Report link to online pdf",
+		"Attachments": "",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 4,
+		"path": "jt-cremer-need-to-get-permission-from-",
+		"title": "J.T. Cremer. Need to get permission from ",
+		"Attachments": "/images/airtable/CoolieCremerthefatherofCoolieOrdinanceondisplayinTropenmuseumAmsterdam.webp",
+		"Status": "",
+		"url": "",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 4,
+		"path": "multatuli-rebel-at-the-foundation",
+		"title": "Multatuli: rebel at the foundation of modern Dutch Literature, in which Jacqueline Bel, professor of Modern Dutch Literature at the Vrije Universiteit explains the contribution that Multatuli made to Dutch literature and how the writer, as a critical spirit, fought against social injustice.",
+		"Status": "",
+		"url": "https://www.youtube.com/embed/FAjiSHOihcM",
+		"image": "/images/ch4/multatuli.webp",
+		"province": "Maluku"
+	},
+	{
+		"chapter": 4,
+		"path": "tabakscultuur-in-deli",
+		"title": "p. 119\nTabakscultuur in Deli\n",
+		"Attachments": "",
+		"Status": "",
+		"image": "https://img.youtube.com/vi/FskcYtGL27I/hqdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=FskcYtGL27I",
+		"province": ""
+	},
+	{
+		"chapter": 4,
+		"path": "pest-op-java",
+		"title": "p. 126\nPest op Java ",
+		"Attachments": "",
+		"Status": "",
+		"image": "https://img.youtube.com/vi/9M7i2Vbtaj4/hqdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=9M7i2Vbtaj4&t=30s",
+		"province": ""
+	},
+	{
+		"chapter": 4,
+		"path": "tabakscultuur-op-midden-java",
+		"title": "p. 135\nDe Tabakscultuur op Midden Java ",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/o3-gFcKkmuM/hqdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=o3-gFcKkmuM&t=214s",
+		"province": ""
+	},
+	{
+		"chapter": 4,
+		"path": "holland-neutraal-mullens",
+		"title": "p. 117 \nHolland Neutraal: Leger en Vlootfilm by Willy Mullens",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/YAI7IK5bTsE/hqdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=YAI7IK5bTsE",
+		"province": ""
+	},
+	{
+		"chapter": 4,
+		"path": "mullens-rubber-film",
+		"title": "p. 118 R\nRubber Film by Willy Mullens",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/Em19huXPBbw/maxresdefault.jpg",
+		"url": "https://www.youtube.com/embed/Em19huXPBbw?start=477",
+		"province": ""
+	},
+	{
+		"chapter": 4,
+		"path": "mullens-uit-mijn-gulden-boek",
+		"title": "Willy Mullens, Enkele Pagina’s Uit Mijn Gulden Boek (Den Haag: Staatsdrukkerij, 1929)",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch4/mullensguldenbook.webp",
+		"url": "https://dl.airtable.com/.attachments/89df37a5643edecb44d5d54536bf7fe8/24f3504f/mullensguldenbook.pdf",
+		"province": ""
+	},
+	{
+		"chapter": 4,
+		"path": "tideman-kolonisate",
+		"title": "p 130\nTideman: Kolonisate",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch4/tideman.webp",
+		"url": "https://dl.airtable.com/.attachments/7045f3a290d2a0143d67f55e310b1590/fa8dc541/Tideman.pdf",
+		"province": ""
+	},
+	{
+		"chapter": 5,
+		"path": "flores-film",
+		"title": "p. 147\nFlores Film ",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/UVGuQrh2BUk/hqdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=UVGuQrh2BUk&t=4s",
+		"province": ""
+	},
+	{
+		"chapter": 5,
+		"path": "eddy-appels-faraway",
+		"title": "p. 148\nEddy Appels, ‘Faraway Places and Exotic Cultures in a Movie Mission’, Cultuur Wijzer ",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch5/cultuurwijzer.webp",
+		"url": "https://static.kunstelo.nl/ckv2/cultuurwijzer/cultuurwijzer/www/cultuurwijzer.nl/cultuurwijzer.nl/i000741.html",
+		"province": ""
+	},
+	{
+		"chapter": 5,
+		"path": "bali-floti",
+		"title": "p. 161\nBali-Floti ",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/5e1R3xxIBl4/hqdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=5e1R3xxIBl4&t=3863s",
+		"province": ""
+	},
+	{
+		"chapter": 5,
+		"path": "nanook-of-the-north-2",
+		"title": "p. 170\nNanook of the North ",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/lkW14Lu1IBo/hqdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=lkW14Lu1IBo",
+		"province": ""
+	},
+	{
+		"chapter": 5,
+		"path": "ria-rago",
+		"title": "p. 179\nRia Rago ",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/vDiLhFJvkqE/maxresdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=vDiLhFJvkqE",
+		"province": ""
+	},
+	{
+		"chapter": 5,
+		"path": "rahman-lembah",
+		"title": "p. 180\nLisabona Rahman, ‘Lembah Ndona di Dunia Maya: Roman Adat-Relijius ala Flores tahun 1930-an’, Film Indonesia, Oct. 2013 ",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch5/filmindonesia.webp",
+		"url": "http://filmindonesia.or.id/article/lembah-ndona-di-dunia-maya-roman-adat-relijius-ala-flores-tahun-1930-an#.U6W_ so2SzCl",
+		"province": ""
+	},
+	{
+		"chapter": 5,
+		"path": "alsem-rawana",
+		"title": "p. 189\nRawana (Figure 49), made in 1932 by Henk Alsem ",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/OVYKanklrCk/maxresdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=OVYKanklrCk&t=2176s",
+		"province": ""
+	},
+	{
+		"chapter": 5,
+		"path": "bali-floti-booklet",
+		"title": "p. 161\nBali-Floti booklet page",
+		"Attachments": "",
+		"Status": "",
+		"image": "",
+		"url": "",
+		"province": ""
+	},
+	{
+		"chapter": 6,
+		"path": "eye-filmmuseum",
+		"title": "p. 193\nEYE Filmmuseum YouTube Channel for the NEI collection ",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/5EoCnc5z2mQ/maxresdefault.jpg",
+		"url": "https://www.youtube.com/embed/videoseries?list=PLQr5oaajRw8MElYwKeB3AjT23dVTOa3kH",
+		"province": ""
+	},
+	{
+		"chapter": 6,
+		"path": "indonesia-tempo-doeloe",
+		"title": "p. 194\nFacebook Group: INDONESIA TEMPO DOELOE ",
+		"Attachments": "",
+		"Status": "",
+		"image": "/images/ch6/indonesiatempodoeloe.webp",
+		"url": "https://www.facebook.com/groups/indonesiatempodoeloe/",
+		"province": ""
+	},
+	{
+		"chapter": 6,
+		"path": "vaessen-apology",
+		"title": "p. 195\nStep Vaessen, ‘Indonesians to Receive Dutch Apology’, Al Jazeera, 11 Sept. 2013",
+		"Attachments": "",
+		"Status": "",
+		"image": "http://img.youtube.com/vi/_pzeHf-pD84/maxresdefault.jpg",
+		"url": "https://www.youtube.com/watch?v=_pzeHf-pD84",
+		"province": ""
+	}
 ]
