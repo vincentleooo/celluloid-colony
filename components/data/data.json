@@ -36,7 +36,7 @@
 		"Attachments": "/images/ch0/hollandneutraal.webp",
 		"Status": "",
 		"image": "",
-		"url": "https://www.youtube.com/watch?v=YAI7IK5bTsE",
+		"url": "https://www.youtube.com/embed/YAI7IK5bTsE",
 		"province": ""
 	},
 	{
@@ -406,7 +406,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "https://img.youtube.com/vi/FskcYtGL27I/hqdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=FskcYtGL27I",
+		"url": "https://www.youtube.com/embed/FskcYtGL27I",
 		"province": ""
 	},
 	{
@@ -416,7 +416,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "https://img.youtube.com/vi/9M7i2Vbtaj4/hqdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=9M7i2Vbtaj4&t=30s",
+		"url": "https://www.youtube.com/embed/9M7i2Vbtaj4?start=30",
 		"province": ""
 	},
 	{
@@ -426,7 +426,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "http://img.youtube.com/vi/o3-gFcKkmuM/hqdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=o3-gFcKkmuM&t=214s",
+		"url": "https://www.youtube.com/embed/o3-gFcKkmuM?start=214",
 		"province": ""
 	},
 	{
@@ -436,7 +436,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "http://img.youtube.com/vi/YAI7IK5bTsE/hqdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=YAI7IK5bTsE",
+		"url": "https://www.youtube.com/embed/YAI7IK5bTsE",
 		"province": ""
 	},
 	{
@@ -476,7 +476,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "http://img.youtube.com/vi/UVGuQrh2BUk/hqdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=UVGuQrh2BUk&t=4s",
+		"url": "https://www.youtube.com/embed/UVGuQrh2BUk?start=4",
 		"province": ""
 	},
 	{
@@ -496,7 +496,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "http://img.youtube.com/vi/5e1R3xxIBl4/hqdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=5e1R3xxIBl4&t=3863s",
+		"url": "https://www.youtube.com/embed/5e1R3xxIBl4?start=3863",
 		"province": ""
 	},
 	{
@@ -506,7 +506,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "http://img.youtube.com/vi/lkW14Lu1IBo/hqdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=lkW14Lu1IBo",
+		"url": "https://www.youtube.com/embed/lkW14Lu1IBo",
 		"province": ""
 	},
 	{
@@ -516,7 +516,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "http://img.youtube.com/vi/vDiLhFJvkqE/maxresdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=vDiLhFJvkqE",
+		"url": "https://www.youtube.com/embed/vDiLhFJvkqE",
 		"province": ""
 	},
 	{
@@ -536,7 +536,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "http://img.youtube.com/vi/OVYKanklrCk/maxresdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=OVYKanklrCk&t=2176s",
+		"url": "https://www.youtube.com/embed/OVYKanklrCk?start=2176",
 		"province": ""
 	},
 	{
@@ -576,7 +576,7 @@
 		"Attachments": "",
 		"Status": "",
 		"image": "http://img.youtube.com/vi/_pzeHf-pD84/maxresdefault.jpg",
-		"url": "https://www.youtube.com/watch?v=_pzeHf-pD84",
+		"url": "https://www.youtube.com/embed/_pzeHf-pD84",
 		"province": ""
 	}
 ]
