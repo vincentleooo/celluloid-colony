@@ -3,6 +3,7 @@
 import Link from "next/link";
 import dataJson from "../../components/data/data.json";
 import Image from "next/future/image"
+import Head from "next/head";
 
 type paramsDataID = {
   id: string;
@@ -47,6 +48,43 @@ type postProps = {
 export default function Post(props: postProps) {
   // Render post...
   return (
+    <>
+    <Head>
+        <meta charSet="utf-8" />
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="/apple-touch-icon.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="32x32"
+          href="/favicon-32x32.png"
+        />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="16x16"
+          href="/favicon-16x16.png"
+        />
+        <link rel="manifest" href="/site.webmanifest"></link>
+        <title>
+          {props.title}
+        </title>
+        <meta
+          name="description"
+          content={props.title}
+        />
+        <meta
+          name="og:image"
+          content="https://i.ibb.co/Q7gZjbZ/og-image.webp"
+        />
+        <meta
+          name="og:description"
+          content={props.title}
+        />
+      </Head>
     <div className="max-w-prose mx-auto my-12">
       <div className="max-w-prose mx-auto">
       <h1 className="font-bold text-3xl text-center mb-1 mx-auto">{props.title}</h1>
@@ -85,6 +123,6 @@ export default function Post(props: postProps) {
       ) : (
         <></>
       )}
-    </div>
+    </div></>
   );
 }
